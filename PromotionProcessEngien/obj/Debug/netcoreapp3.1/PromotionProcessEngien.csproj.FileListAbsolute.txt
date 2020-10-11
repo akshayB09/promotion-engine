@@ -1,0 +1,11 @@
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.exe
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.deps.json
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.runtimeconfig.json
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.runtimeconfig.dev.json
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.dll
+C:\Users\Arishka\source\repos\PromotionProcessEngien\bin\Debug\netcoreapp3.1\PromotionProcessEngien.pdb
+C:\Users\Arishka\source\repos\PromotionProcessEngien\obj\Debug\netcoreapp3.1\PromotionProcessEngien.AssemblyInfoInputs.cache
+C:\Users\Arishka\source\repos\PromotionProcessEngien\obj\Debug\netcoreapp3.1\PromotionProcessEngien.AssemblyInfo.cs
+C:\Users\Arishka\source\repos\PromotionProcessEngien\obj\Debug\netcoreapp3.1\PromotionProcessEngien.dll
+C:\Users\Arishka\source\repos\PromotionProcessEngien\obj\Debug\netcoreapp3.1\PromotionProcessEngien.pdb
+C:\Users\Arishka\source\repos\PromotionProcessEngien\obj\Debug\netcoreapp3.1\PromotionProcessEngien.csprojAssemblyReference.cache

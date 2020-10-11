@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionProcessEngien", "PromotionProcessEngien.csproj", "{C9170A20-2E81-4273-AB1D-CC18EF32DD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionProcessEngienTest", "..\PromotionProcessEngienTest\PromotionProcessEngienTest.csproj", "{EF75B533-B068-4B41-A58E-935DD765D53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9170A20-2E81-4273-AB1D-CC18EF32DD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9170A20-2E81-4273-AB1D-CC18EF32DD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9170A20-2E81-4273-AB1D-CC18EF32DD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9170A20-2E81-4273-AB1D-CC18EF32DD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF75B533-B068-4B41-A58E-935DD765D53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF75B533-B068-4B41-A58E-935DD765D53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF75B533-B068-4B41-A58E-935DD765D53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF75B533-B068-4B41-A58E-935DD765D53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F112592-9905-4385-9230-100233A02EEE}
+	EndGlobalSection
+EndGlobal
